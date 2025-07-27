@@ -1,0 +1,33 @@
+[
+  { "name": "Plaza 25 de Mayo", "latitude": -27.4646, "longitude": -58.831 },
+  {
+    "name": "Costanera Corrientes",
+    "latitude": -27.4682,
+    "longitude": -58.8354
+  },
+  {
+    "name": "Terminal de Ómnibus Corrientes",
+    "latitude": -27.4812,
+    "longitude": -58.7909
+  },
+  {
+    "name": "Corrientes Airport (CNQ)",
+    "latitude": -27.5615,
+    "longitude": -58.7562
+  },
+  {
+    "name": "Centenario Shopping Mall",
+    "latitude": -27.4721,
+    "longitude": -58.8055
+  },
+  {
+    "name": "General San Martín Hospital",
+    "latitude": -27.4735,
+    "longitude": -58.8252
+  },
+  {
+    "name": "UNNE Campus - Libertad Avenue",
+    "latitude": -27.456,
+    "longitude": -58.877
+  }
+]
